@@ -3,7 +3,7 @@ layout: post
 title: Elektromanko!
 created: 1061309700
 ---
-Sendube ĉiuj jam aŭdis pri la malapero de la elektro en Norda Ameriko.  Mi vidis ke eĉ en la retejo de <a href="http://news.bbc.co.uk/">BBC</a> ĝi estis la unua novaĵo dum iom da tempo!
+Sendube ĉiuj jam aŭdis pri la malapero de la elektro en Norda Ameriko.  Mi vidis ke eĉ en la retejo de [BBC](http://news.bbc.co.uk/) ĝi estis la unua novaĵo dum iom da tempo!
 
 Mi loĝas nun en Otavo, kaj do estis trafita de tiu katastrofo.  Ĝuste ĉi tie, mankis elektro dum pli ol 22 horoj.  Komence mi apenaŭ rimarkis ion, pro tio ke mi uzis nur mian porteblan komputilon, kiu kompreneble funkcias senprobleme sen elektro.  Sed malaperis mia retkonekto, pro tio ke miaj DSL-modemo kaj enkursigilo uzas elektron.  Mi tamen sukcesis konekti al la reto per la modemo de mia portebla komputilo, kaj tiel eksciis pri la grando de la elektromanko.
 

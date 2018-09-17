@@ -3,7 +3,7 @@ layout: post
 title: Esperanta Dvoraka klavarfasono por Makintoŝo
 created: 1258300200
 ---
-Antaŭ monato mi aĉetis Makintoŝon (pli specife MacBook-on).  Mi volis krei Esperantan Dvorakan klavarfasonon, similan al <a href="http://argilo.livejournal.com/27070.html">tiu ĉi</a>, kiun mi kreis por Linukso.  Post iom da serĉado, mi trovis <a href="http://wordherd.com/keyboards/">retejon</a>, kiu ebligas krei proprajn klavarfasonojn.  Tie, mi elektis Dvorakan klavarfasonon kiel bazon, kaj aldonis la esperantajn literojn ĉi tiel:
+Antaŭ monato mi aĉetis Makintoŝon (pli specife MacBook-on).  Mi volis krei Esperantan Dvorakan klavarfasonon, similan al [tiu ĉi](http://argilo.livejournal.com/27070.html), kiun mi kreis por Linukso.  Post iom da serĉado, mi trovis [retejon](http://wordherd.com/keyboards/), kiu ebligas krei proprajn klavarfasonojn.  Tie, mi elektis Dvorakan klavarfasonon kiel bazon, kaj aldonis la esperantajn literojn ĉi tiel:
 
 ```
 OSc $0108

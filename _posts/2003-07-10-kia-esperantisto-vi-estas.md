@@ -7,4 +7,4 @@ created: 1057852320
 
 Sen vi, ne ekzistus Esperanta komunumo! Vi aktive organizas eventojn kaj aranĝojn. Ofte oni forgesas danki vin pro viaj longaj horoj da senpaga laboro, sed vi scias en via koro ke vi estas heroo.
 
-<a href="http://www.kisa.ca/kvizo/">Kia Esperantisto vi estas?</a>
+[Kia Esperantisto vi estas?](http://www.kisa.ca/kvizo/)

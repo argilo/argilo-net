@@ -92,4 +92,4 @@ index 787e4ef..687c1d0 100644
          <Key
 ```
 
-Se vi volas mem apliki la ĉi-supran flikaĵon, necesas fari tion dum vi sekvas la <a href="http://wiki.cyanogenmod.com/index.php?title=Compile_CyanogenMod_for_Passion">instrukcion</a> pri tradukado de CyanogenMod 7.
+Se vi volas mem apliki la ĉi-supran flikaĵon, necesas fari tion dum vi sekvas la [instrukcion](http://wiki.cyanogenmod.com/index.php?title=Compile_CyanogenMod_for_Passion) pri tradukado de CyanogenMod 7.

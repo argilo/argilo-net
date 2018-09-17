@@ -3,7 +3,7 @@ layout: post
 title: Elektoprognozo
 created: 1088368560
 ---
-Antaŭ kelkaj minutoj, <a href="http://www.electionprediction.org/2004_fed/">electionprediction.org</a> prognozis la rezulton de la morgaŭa elekto:
+Antaŭ kelkaj minutoj, [electionprediction.org](http://www.electionprediction.org/2004_fed/) prognozis la rezulton de la morgaŭa elekto:
 
 Liberala Partio: 122
 Konservativa Partio: 104
