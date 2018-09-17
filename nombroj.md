@@ -4,10 +4,9 @@ title: Miaj preferataj nombroj
 created: 1137269477
 permalink: /nombroj/
 ---
-<p>Ĉi tie mi prezentas al vi la unuajn mil ciferojn de miaj du plej ŝatataj neracionalaj nombroj.  La unua estas la fame konata <i>pi</i>.  Ĝi estas la kvociento de la cirkonferenco per la diametro de cirklo.  Jen estas tre simpla formulo, kiu esprimas <i>pi</i>-on kiel sumon de racionalaj nombroj.</p>
-<p style="text-align: center;">
-<img src="/files/pi.png" alt="formulo por pi" />
-</p>
+Ĉi tie mi prezentas al vi la unuajn mil ciferojn de miaj du plej ŝatataj neracionalaj nombroj.  La unua estas la fame konata *pi*.  Ĝi estas la kvociento de la cirkonferenco per la diametro de cirklo.  Jen estas tre simpla formulo, kiu esprimas *pi*-on kiel sumon de racionalaj nombroj.
+
+![formulo por pi](/files/pi.png)
 
 ```
 3.141592653589793238462643383279502884197169399375105820974944592307816406286
@@ -25,10 +24,9 @@ permalink: /nombroj/
 59562863882353787593751957781857780532171226806613001927876611195909216420199
 ```
 
-<p>La dua estas ne tiel fame konata, sed certe grava en matematiko.  Ĝi nomiĝas <i>e</i>, honore al ĝia malkovrinto, Euler.  Se oni metus unu eŭron en sian bankokonton, kaj konstante ricevus interezon je 100% jare, oni post unu jaro havus <i>e</i> eŭrojn.  Jen estas tre simpla formulo, kiu esprimas <i>e</i>-on kiel sumon de racionalaj nombroj.</p>
-<p style="text-align: center;">
-<img src="/files/e.png" alt="formulo por e" />
-</p>
+La dua estas ne tiel fame konata, sed certe grava en matematiko.  Ĝi nomiĝas *e*, honore al ĝia malkovrinto, Euler.  Se oni metus unu eŭron en sian bankokonton, kaj konstante ricevus interezon je 100% jare, oni post unu jaro havus *e* eŭrojn.  Jen estas tre simpla formulo, kiu esprimas *e*-on kiel sumon de racionalaj nombroj.
+
+![formulo por e](/files/e.png)
 
 ```
 2.718281828459045235360287471352662497757247093699959574966967627724076630353
