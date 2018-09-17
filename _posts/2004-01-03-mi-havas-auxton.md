@@ -7,5 +7,4 @@ Lastatempe mi ekvolis havi aŭton, interalie pro tio ke la aŭtobusa sistemo ĉi
 
 Certe temas pri taŭga aŭto por matematikisto, unue pro la nomo (Matrix = matrico), kaj due pro tio ke estas primo (nome 971) sur la numerplato.  :-)
 
-
-<img src="/files/2003-toyota-matrix-xrs.jpg" width="800" height="529" alt="Toyota Matrix XRS" />
+![Toyota Matrix XRS](/files/2003-toyota-matrix-xrs.jpg)

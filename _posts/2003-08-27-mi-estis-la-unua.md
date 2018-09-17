@@ -7,7 +7,7 @@ Hieraŭ matene, mi rigardis la liston de proksimaj geografiaj kaŝejoj, kaj rima
 
 En la kaŝejo mi trovis tre interesan moneron.  Kun ĝi estis informileto, kiu klarigis ke temas pri [GeoCoin](http://www.geocoins.ca/) (geografia monero).  Tiajn monerojn oni prenas de unu kaŝejo kaj metas en alian.  Oni tion registras en reta datumbazo, por ke oni povu sekvi la movojn de la moneroj tra la mondo.  Mi prenis la moneron, ĉar mi baldaŭ translokiĝos al Vaterlo, kaj povos tie lasi ĝin en iu kaŝejo.
 
-Krome, mi vidis ke mi fariĝis la unua, kiu trovis la novan kaŝejon.  Hodiaŭ evidentiĝis ke multaj aliaj ankaŭ volis esti la unua, sed ne sukcesis.  Mia amiko Arono diris ke mi tuj vizitu [la paĝon de la kaŝejo](http://www.geocaching.com/seek/cache_details.aspx?ID=88159).  Tie mi vidis ke la sekva persono, kiu trovis la kaŝejon, eĉ <a href="http://www.geocaching.com/seek/cachelog_details.asp?ID=301440&L=1948816" >fotis min</a> dum mi foriris!  Tiu sufiĉe amuziĝis pro tio, ke mi rajdas unuciklon!  Aperis ankaŭ listo de kelkaj aliaj, kiuj vizitis la kaŝejon poste en tiu tago.
+Krome, mi vidis ke mi fariĝis la unua, kiu trovis la novan kaŝejon.  Hodiaŭ evidentiĝis ke multaj aliaj ankaŭ volis esti la unua, sed ne sukcesis.  Mia amiko Arono diris ke mi tuj vizitu [la paĝon de la kaŝejo](http://www.geocaching.com/seek/cache_details.aspx?ID=88159).  Tie mi vidis ke la sekva persono, kiu trovis la kaŝejon, eĉ [fotis min](http://www.geocaching.com/seek/cachelog_details.asp?ID=301440&L=1948816) dum mi foriris!  Tiu sufiĉe amuziĝis pro tio, ke mi rajdas unuciklon!  Aperis ankaŭ listo de kelkaj aliaj, kiuj vizitis la kaŝejon poste en tiu tago.
 
 **Nuna humoro:** sukcesa  
 **Nuna muziko:** Four80East - Drive Time

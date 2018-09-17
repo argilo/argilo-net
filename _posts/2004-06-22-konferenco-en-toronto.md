@@ -10,7 +10,7 @@ Dimanĉon vespere mi ĉeestis [renkontiĝegon](http://ndp.ca/newsdetail/nid-1928
 Hodiaŭ vespere mi ĉeestis renkontiĝon de la Esperanto-Rondo de Toronto.  Entute ĉeestis 11 personoj.  Inter ili estis kvar, kiujn mi antaŭe ne renkontis.  Unu el ili estis de Bulgario, kaj do ni iomete interparolis en la bulgara.  Post la renkontiĝo ni iris al la taja restoracio "Peach Garden".  La manĝaĵo estis tre bongusta!  Entute mi tre ĝuis la renkontiĝon, kaj mi esperas ke mi baldaŭ povos ĉeesti pliajn.
 
 
-<img src="/files/IMG_3008_mg.jpg" alt="renkontiĝo de ERT" />
+![renkontiĝo de ERT](/files/IMG_3008_mg.jpg)
 
 
 **Nuna humoro:** denove energioplena
