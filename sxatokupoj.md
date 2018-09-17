@@ -20,7 +20,7 @@ En ĉi tiu paĝo vi trovos ligilojn al paĝoj, kiuj rilatas al kelkaj el miaj ŝ
 
 ## Muziko
 
-* [Iam da muziko, kiun mi faris](/muziko/)
+* [Iom da muziko, kiun mi faris](/muziko/)
 
 ## Ĵonglado kaj unuciklado
 
