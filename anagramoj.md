@@ -46,9 +46,12 @@ permalink: /anagramoj/
 	}
 ?>
 
-<p>Laŭ la <a href="http://purl.org/NET/voko/revo/">Reta Vortaro</a>, anagramo estas "ŝanĝaranĝo de la literoj de vorto, por fari alian vorton: nomo - mono, resano - ansero".</p>
-<p>Per tiu ĉi paĝo vi povas trovi anagramojn.  La anagramojn trovas la programo "<a href="http://hsvmovies.com/static_subpages/personal_orig/wordplay/index.html">Wordplay</a>" de Evans A Criswell.  Mi mem adaptis ĝin al Esperanto.  La modifita fontokodo de la programo troviĝas en <a href="https://github.com/argilo/anagramoj">Github</a>.</p>
-<p>Entajpu du-tri vortojn <b>Unikode</b> aŭ <b>x-sisteme</b> por trovi anagramojn de ili.</p>
+Laŭ la [Reta Vortaro](http://purl.org/NET/voko/revo/), anagramo estas "ŝanĝaranĝo de la literoj de vorto, por fari alian vorton: nomo - mono, resano - ansero".
+
+Per tiu ĉi paĝo vi povas trovi anagramojn.  La anagramojn trovas la programo "[Wordplay](http://hsvmovies.com/static_subpages/personal_orig/wordplay/index.html)" de Evans A Criswell.  Mi mem adaptis ĝin al Esperanto.  La modifita fontokodo de la programo troviĝas en [Github](https://github.com/argilo/anagramoj).
+
+Entajpu du-tri vortojn **Unikode** aŭ **x-sisteme** por trovi anagramojn de ili.
+
 <p><a href="anagramoj<?php echo isset($_GET["detale"]) ? "" : "?detale" ?>"><?php echo isset($_GET["detale"]) ? "Simpla" : "Detala" ?> serĉo.</a></p>
 <form method="post" action="anagramoj<?php echo isset($_GET["detale"]) ? "?detale" : "" ?>"><p>
 <?php
