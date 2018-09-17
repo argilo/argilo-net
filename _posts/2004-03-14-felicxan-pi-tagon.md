@@ -3,7 +3,7 @@ layout: post
 title: Feliĉan pi-tagon!
 created: 1079247540
 ---
-La dato kaj horo nun estas 2004-0<b>3-14</b> 0<b>1:59:26</b>, do festu ni la tagon de la famekonata numero [pi](/nombroj/)!  Jen estas ĝiaj unuaj 1000 ciferoj:
+La dato kaj horo nun estas 2004-0**3-14** 0**1:59:26**, do festu ni la tagon de la famekonata numero [pi](/nombroj/)!  Jen estas ĝiaj unuaj 1000 ciferoj:
 
 ```
 3.141592653589793238462643383279502884197169399375105820974944592307816406286
