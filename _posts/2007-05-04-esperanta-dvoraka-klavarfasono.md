@@ -3,11 +3,12 @@ layout: post
 title: Esperanta Dvoraka klavarfasono
 created: 1178325602
 ---
-<p>Kiam mi unuafoje isntalis Ubuntu en mian porteblan komputilon, mi kreis Esperantan Dvorakan klavarfasonon.  Ĝi estis tute sama kiel la Usona Dvoraka klavaro, krom ke per AltGr eblis aldoni supersignon.  Ekzemple, mi tajpis AltGr+C por skribi "ĉ", AltGr+G por "ĝ", ktp.<p>
+Kiam mi unuafoje isntalis Ubuntu en mian porteblan komputilon, mi kreis Esperantan Dvorakan klavarfasonon.  Ĝi estis tute sama kiel la Usona Dvoraka klavaro, krom ke per AltGr eblis aldoni supersignon.  Ekzemple, mi tajpis AltGr+C por skribi "ĉ", AltGr+G por "ĝ", ktp.
 
-<p>Antaŭ du semajnoj mi instalis la plej lastan version de Ubuntu.  Mi decidis rezervkopii miajn dosierojn, forviŝi mian durdiskon kaj instali ĝin de nulo.  Bedaŭrinde mi forgesis kopii la dosieron kiu enhavis mian klavarfasonon, do mi devis rekrei ĝin.  Nun mi afiŝas ĝin ĉi tie por ke mi ne perdu ĝin estonte.  Kaj eble ĝi povas esti utila al iu alia.  Do jen ĝi:</p>
+Antaŭ du semajnoj mi instalis la plej lastan version de Ubuntu.  Mi decidis rezervkopii miajn dosierojn, forviŝi mian durdiskon kaj instali ĝin de nulo.  Bedaŭrinde mi forgesis kopii la dosieron kiu enhavis mian klavarfasonon, do mi devis rekrei ĝin.  Nun mi afiŝas ĝin ĉi tie por ke mi ne perdu ĝin estonte.  Kaj eble ĝi povas esti utila al iu alia.  Do jen ĝi:
 
-<pre>default partial alphanumeric_keys
+```
+default partial alphanumeric_keys
 xkb_symbols "basic" {
 
   name[Group1]= "Esperanto";
@@ -64,6 +65,7 @@ xkb_symbols "basic" {
     key &lt;AB10&gt; { [	    z,	Z		]	};
 
   include "level3(ralt_switch)"
-};</pre>
+};
+```
 
-<p>Tion mi metis en la dosieron <code>/usr/share/X11/xkb/symbols/epo</code>.</p>
+Tion mi metis en la dosieron `/usr/share/X11/xkb/symbols/epo`.
