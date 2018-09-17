@@ -28,7 +28,7 @@ permalink: /pri-argilo/
 <li>Ŝatokupoj: muziko, <a href="sxatokupoj#matematiko">matematiko</a>, <a href="sxatokupoj#jxonglado">ĵonglado</a>, unuciklado, kegloludado</li>
 <li>Mezlernejo: Lambton-Kent Composite School</li>
 <li>Universitato: <a href="https://uwaterloo.ca/">University of Waterloo</a></li>
-<li>Ekzino: Teodora Alexandrova</li>
+<li>Edzino: Teodora Alexandrova</li>
 </ul>
 
 <h2>Por kontakti min</h2>
