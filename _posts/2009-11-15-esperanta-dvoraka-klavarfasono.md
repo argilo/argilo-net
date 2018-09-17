@@ -26,4 +26,4 @@ OCu $016C
 Ou $016D
 ```
 
-La retejo generis por mi `.keylayout`-dosieron XML-formatan, kiun mi metis en `/Library/Keyboard Layouts`.  Post elsaluto kaj reensaluto mia klavaro estis elektebla en System Preferences --> Language & Text --> Input Sources.
+La retejo generis por mi `.keylayout`-dosieron XML-formatan, kiun mi metis en `/Library/Keyboard Layouts`.  Post elsaluto kaj reensaluto mia klavaro estis elektebla en System Preferences → Language & Text → Input Sources.
