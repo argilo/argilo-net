@@ -4,7 +4,9 @@ title: Esperanta klavaro en CyanogenMod 7
 created: 1298220300
 ---
 Por mia poŝtelefono (Google Nexus One) ekzistas kelkaj modifitaj versioj de la operaciumo.  Mia preferata estas CyanogenMod, kies plej lastan version (CyanogenMod 7) mi instalis antaŭnelonge.  Mi ĵus aldonis la Esperantajn literojn al ĝia klavaro per la ĉi-sekva modifo al packages/inputmethods/LatinIME:
-<pre>diff --git a/java/res/values-en/donottranslate-altchars.xml b/java/res/values-en/donottranslate-altchars.xml
+
+```
+diff --git a/java/res/values-en/donottranslate-altchars.xml b/java/res/values-en/donottranslate-altchars.xml
 index 083befa..4edbeb5 100644
 --- a/java/res/values-en/donottranslate-altchars.xml
 +++ b/java/res/values-en/donottranslate-altchars.xml
@@ -87,5 +89,7 @@ index 787e4ef..687c1d0 100644
 +            android:popupCharacters="@string/alternates_for_j" /&gt;
          &lt;Key
              android:keyLabel="k" /&gt;
-         &lt;Key</pre>
+         &lt;Key
+```
+
 Se vi volas mem apliki la ĉi-supran flikaĵon, necesas fari tion dum vi sekvas la <a href="http://wiki.cyanogenmod.com/index.php?title=Compile_CyanogenMod_for_Passion">instrukcion</a> pri tradukado de CyanogenMod 7.

@@ -5,7 +5,8 @@ created: 1279064940
 ---
 Antaŭnelonge mi aĉetis novan poŝtelefonon, nome Google Nexus One.  Ĝis nun mankis la Esperantaj literoj en ĝia klavaro, sed mi sukcesis aldoni ilin.  Anstataŭ aldoni ilin al la operaciumo mem (kio estus sufiĉe malfacile), mi aldonis ilin al <a href="http://code.google.com/p/bulkey/">Bulkey</a>.  Bulkey estas bulgara klavaro por Android (la operaciumo de la poŝtelefono), kaj bonŝance ĝi estas malferma, kaj do tre facile modifebla.  Mi do senprobleme aldonis la Esperantajn literojn al la latina klavaro en Bulkey (unu el kelkaj elekteblaj).  Jen sekvas la ŝanĝoj, kiujn mi faris, por ke mi povu estonte refari ilin laŭbezone:
 
-<pre>diff -r f8638a4e9fa5 res/values/strings.xml
+```
+diff -r f8638a4e9fa5 res/values/strings.xml
 --- a/res/values/strings.xml	Tue May 11 17:22:16 2010 +0300
 +++ b/res/values/strings.xml	Tue Jul 13 23:26:59 2010 -0400
 @@ -58,6 +58,12 @@
@@ -58,4 +59,5 @@ diff -r f8638a4e9fa5 res/xml/qwerty.xml
 +        &lt;Key android:codes="99" android:keyLabel="c" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_c"/&gt;
          &lt;Key android:codes="118" android:keyLabel="v"/&gt;
          &lt;Key android:codes="98" android:keyLabel="b"/&gt;
-         &lt;Key android:codes="110" android:keyLabel="n"&gt;&lt;/Key&gt;</pre>
+         &lt;Key android:codes="110" android:keyLabel="n"&gt;&lt;/Key&gt;
+```
