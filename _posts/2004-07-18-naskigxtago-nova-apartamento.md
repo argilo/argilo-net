@@ -13,14 +13,15 @@ Kiam mi pasintfoje estis en Toronto, mi iris al Kensington Market por serĉi ves
 
 <a href="https://www.livejournal.com/userinfo.bml?user=amuzulo"><img src="https://stat.livejournal.com/img/userinfo.gif" alt="[info]" width="17" height="17" style="vertical-align: bottom; border: 0;" /></a><a href="https://amuzulo.livejournal.com/"><b>amuzulo</b></a> kaj mi lastatempe diskutis pri hajkoj:
 
-<b>[22:05] Chuck Smith:</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hajkoj aĉegas
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi ne povas toleri
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ili mortu tuj!
-<b>[22:07] Clay314:</b>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vi pravegas, Chuck
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ni ekkontraŭbatalu
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tiujn aĉaĵojn!
+**[22:05] Chuck Smith:**
+> hajkoj aĉegas  
+> mi ne povas toleri  
+> ili mortu tuj!
+
+**[22:07] Clay314:**
+> vi pravegas, Chuck  
+> ni ekkontraŭbatalu  
+> tiujn aĉaĵojn!
 
 **Nuna humoro:** kreema  
 **Nuna muziko:** Los Amigos Invisibles - Fonnovo

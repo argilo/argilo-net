@@ -11,85 +11,85 @@ index 083befa..4edbeb5 100644
 --- a/java/res/values-en/donottranslate-altchars.xml
 +++ b/java/res/values-en/donottranslate-altchars.xml
 @@ -22,6 +22,6 @@
-     &lt;string name="alternates_for_e"&gt;3èéêëē&lt;/string&gt;
-     &lt;string name="alternates_for_i"&gt;ìíîïī8&lt;/string&gt;
-     &lt;string name="alternates_for_o"&gt;òóôõöōœø9&lt;/string&gt;
--    &lt;string name="alternates_for_u"&gt;ùúûüū7&lt;/string&gt;
-+    &lt;string name="alternates_for_u"&gt;ùúûüūŭ7&lt;/string&gt;
-     &lt;string name="alternates_for_y"&gt;ýÿ6&lt;/string&gt;
- &lt;/resources&gt;
+     <string name="alternates_for_e">3èéêëē</string>
+     <string name="alternates_for_i">ìíîïī8</string>
+     <string name="alternates_for_o">òóôõöōœø9</string>
+-    <string name="alternates_for_u">ùúûüū7</string>
++    <string name="alternates_for_u">ùúûüūŭ7</string>
+     <string name="alternates_for_y">ýÿ6</string>
+ </resources>
 diff --git a/java/res/values/donottranslate-altchars.xml b/java/res/values/donottranslate-altchars.xml
 index 5038fd4..e30226a 100644
 --- a/java/res/values/donottranslate-altchars.xml
 +++ b/java/res/values/donottranslate-altchars.xml
 @@ -20,13 +20,14 @@
- &lt;resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"&gt;
-     &lt;string name="alternates_for_a"&gt;àáâãäåæ&lt;/string&gt;
-     &lt;string name="alternates_for_e"&gt;èéêë&lt;/string&gt;
--    &lt;string name="alternates_for_h"&gt;&lt;/string&gt;
-+    &lt;string name="alternates_for_h"&gt;ĥ&lt;/string&gt;
-     &lt;string name="alternates_for_i"&gt;ìíîï&lt;/string&gt;
-+    &lt;string name="alternates_for_j"&gt;ĵ&lt;/string&gt;
-     &lt;string name="alternates_for_o"&gt;òóôõöœø&lt;/string&gt;
--    &lt;string name="alternates_for_u"&gt;ùúûü&lt;/string&gt;
--    &lt;string name="alternates_for_s"&gt;§ß&lt;/string&gt;
-+    &lt;string name="alternates_for_u"&gt;ùúûüŭ&lt;/string&gt;
-+    &lt;string name="alternates_for_s"&gt;§ŝß&lt;/string&gt;
-     &lt;string name="alternates_for_n"&gt;ñ&lt;/string&gt;
--    &lt;string name="alternates_for_c"&gt;ç&lt;/string&gt;
-+    &lt;string name="alternates_for_c"&gt;çĉ&lt;/string&gt;
-     &lt;string name="alternates_for_y"&gt;ýÿ&lt;/string&gt;
-     &lt;string name="alternates_for_q"&gt;1&lt;/string&gt;
-     &lt;string name="alternates_for_w"&gt;2&lt;/string&gt;
+ <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+     <string name="alternates_for_a">àáâãäåæ</string>
+     <string name="alternates_for_e">èéêë</string>
+-    <string name="alternates_for_h"></string>
++    <string name="alternates_for_h">ĥ</string>
+     <string name="alternates_for_i">ìíîï</string>
++    <string name="alternates_for_j">ĵ</string>
+     <string name="alternates_for_o">òóôõöœø</string>
+-    <string name="alternates_for_u">ùúûü</string>
+-    <string name="alternates_for_s">§ß</string>
++    <string name="alternates_for_u">ùúûüŭ</string>
++    <string name="alternates_for_s">§ŝß</string>
+     <string name="alternates_for_n">ñ</string>
+-    <string name="alternates_for_c">ç</string>
++    <string name="alternates_for_c">çĉ</string>
+     <string name="alternates_for_y">ýÿ</string>
+     <string name="alternates_for_q">1</string>
+     <string name="alternates_for_w">2</string>
 @@ -35,7 +36,7 @@
-     &lt;string name="alternates_for_t"&gt;5&lt;/string&gt;
-     &lt;string name="alternates_for_z"&gt;&lt;/string&gt;
-     &lt;string name="alternates_for_l"&gt;&lt;/string&gt;
--    &lt;string name="alternates_for_g"&gt;&lt;/string&gt;
-+    &lt;string name="alternates_for_g"&gt;ĝ&lt;/string&gt;
-     &lt;string name="alternates_for_p"&gt;0&lt;/string&gt;
-     &lt;string name="alternates_for_v"&gt;&lt;/string&gt;
-     &lt;string name="alternates_for_ae"&gt;&lt;/string&gt;
+     <string name="alternates_for_t">5</string>
+     <string name="alternates_for_z"></string>
+     <string name="alternates_for_l"></string>
+-    <string name="alternates_for_g"></string>
++    <string name="alternates_for_g">ĝ</string>
+     <string name="alternates_for_p">0</string>
+     <string name="alternates_for_v"></string>
+     <string name="alternates_for_ae"></string>
 diff --git a/java/res/xml/kbd_qwerty.xml b/java/res/xml/kbd_qwerty.xml
 index a4ab0f8..f706e67 100644
 --- a/java/res/xml/kbd_qwerty.xml
 +++ b/java/res/xml/kbd_qwerty.xml
 @@ -93,9 +93,13 @@
              android:popupKeyboard="@xml/kbd_popup_template"
-             android:popupCharacters="@string/alternates_for_g" /&gt;
-         &lt;Key
--            android:keyLabel="h" /&gt;
+             android:popupCharacters="@string/alternates_for_g" />
+         <Key
+-            android:keyLabel="h" />
 +            android:keyLabel="h"
 +            android:popupKeyboard="@xml/kbd_popup_template"
-+            android:popupCharacters="@string/alternates_for_h" /&gt;
-         &lt;Key
--            android:keyLabel="j" /&gt;
++            android:popupCharacters="@string/alternates_for_h" />
+         <Key
+-            android:keyLabel="j" />
 +            android:keyLabel="j"
 +            android:popupKeyboard="@xml/kbd_popup_template"
-+            android:popupCharacters="@string/alternates_for_j" /&gt;
-         &lt;Key
-             android:keyLabel="k" /&gt;
-         &lt;Key
++            android:popupCharacters="@string/alternates_for_j" />
+         <Key
+             android:keyLabel="k" />
+         <Key
 diff --git a/java/res/xml/kbd_qwerty_black.xml b/java/res/xml/kbd_qwerty_black.xml
 index 787e4ef..687c1d0 100644
 --- a/java/res/xml/kbd_qwerty_black.xml
 +++ b/java/res/xml/kbd_qwerty_black.xml
 @@ -93,9 +93,13 @@
              android:popupKeyboard="@xml/kbd_popup_template"
-             android:popupCharacters="@string/alternates_for_g" /&gt;
-         &lt;Key
--            android:keyLabel="h" /&gt;
+             android:popupCharacters="@string/alternates_for_g" />
+         <Key
+-            android:keyLabel="h" />
 +            android:keyLabel="h"
 +            android:popupKeyboard="@xml/kbd_popup_template"
-+            android:popupCharacters="@string/alternates_for_h" /&gt;
-         &lt;Key
--            android:keyLabel="j" /&gt;
++            android:popupCharacters="@string/alternates_for_h" />
+         <Key
+-            android:keyLabel="j" />
 +            android:keyLabel="j"
 +            android:popupKeyboard="@xml/kbd_popup_template"
-+            android:popupCharacters="@string/alternates_for_j" /&gt;
-         &lt;Key
-             android:keyLabel="k" /&gt;
-         &lt;Key
++            android:popupCharacters="@string/alternates_for_j" />
+         <Key
+             android:keyLabel="k" />
+         <Key
 ```
 
 Se vi volas mem apliki la ĉi-supran flikaĵon, necesas fari tion dum vi sekvas la <a href="http://wiki.cyanogenmod.com/index.php?title=Compile_CyanogenMod_for_Passion">instrukcion</a> pri tradukado de CyanogenMod 7.

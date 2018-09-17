@@ -10,54 +10,54 @@ diff -r f8638a4e9fa5 res/values/strings.xml
 --- a/res/values/strings.xml	Tue May 11 17:22:16 2010 +0300
 +++ b/res/values/strings.xml	Tue Jul 13 23:26:59 2010 -0400
 @@ -58,6 +58,12 @@
-     &lt;string name="inputMethod"&gt;Input Method&lt;/string&gt;
-     &lt;string name="prefs_kbd_type"&gt;which_bg_keyboard&lt;/string&gt;
-     &lt;string name="alternates_for_short_i"&gt;ѝ&lt;/string&gt;
-+    &lt;string name="alternates_for_c"&gt;ĉ&lt;/string&gt;
-+    &lt;string name="alternates_for_g"&gt;ĝ&lt;/string&gt;
-+    &lt;string name="alternates_for_h"&gt;ĥ&lt;/string&gt;
-+    &lt;string name="alternates_for_j"&gt;ĵ&lt;/string&gt;
-+    &lt;string name="alternates_for_s"&gt;ŝ&lt;/string&gt;
-+    &lt;string name="alternates_for_u"&gt;ŭ&lt;/string&gt;
-     &lt;string name="prefs_sound_on"&gt;sound_on&lt;/string&gt;
-     &lt;string name="prefs_auto_switch"&gt;Switch to latin input&lt;/string&gt;
-     &lt;string name="prefs_auto_switch_summary"&gt;Auto switch to latin input on URL and Email fields&lt;/string&gt;
+     <string name="inputMethod">Input Method</string>
+     <string name="prefs_kbd_type">which_bg_keyboard</string>
+     <string name="alternates_for_short_i">ѝ</string>
++    <string name="alternates_for_c">ĉ</string>
++    <string name="alternates_for_g">ĝ</string>
++    <string name="alternates_for_h">ĥ</string>
++    <string name="alternates_for_j">ĵ</string>
++    <string name="alternates_for_s">ŝ</string>
++    <string name="alternates_for_u">ŭ</string>
+     <string name="prefs_sound_on">sound_on</string>
+     <string name="prefs_auto_switch">Switch to latin input</string>
+     <string name="prefs_auto_switch_summary">Auto switch to latin input on URL and Email fields</string>
 diff -r f8638a4e9fa5 res/xml/qwerty.xml
 --- a/res/xml/qwerty.xml	Tue May 11 17:22:16 2010 +0300
 +++ b/res/xml/qwerty.xml	Tue Jul 13 23:26:59 2010 -0400
 @@ -34,7 +34,7 @@
-         &lt;Key android:codes="114" android:keyLabel="r"/&gt;
-         &lt;Key android:codes="116" android:keyLabel="t"/&gt;
-         &lt;Key android:codes="121" android:keyLabel="y"/&gt;
--        &lt;Key android:codes="117" android:keyLabel="u"/&gt;
-+        &lt;Key android:codes="117" android:keyLabel="u" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_u"/&gt;
-         &lt;Key android:codes="105" android:keyLabel="i"/&gt;
-         &lt;Key android:codes="111" android:keyLabel="o"/&gt;
-         &lt;Key android:codes="112" android:keyLabel="p" android:keyEdgeFlags="right"/&gt;
+         <Key android:codes="114" android:keyLabel="r"/>
+         <Key android:codes="116" android:keyLabel="t"/>
+         <Key android:codes="121" android:keyLabel="y"/>
+-        <Key android:codes="117" android:keyLabel="u"/>
++        <Key android:codes="117" android:keyLabel="u" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_u"/>
+         <Key android:codes="105" android:keyLabel="i"/>
+         <Key android:codes="111" android:keyLabel="o"/>
+         <Key android:codes="112" android:keyLabel="p" android:keyEdgeFlags="right"/>
 @@ -43,12 +43,12 @@
-     &lt;Row&gt;
-         &lt;Key android:codes="97" android:keyLabel="a" android:horizontalGap="5%p"
-                 android:keyEdgeFlags="left"/&gt;
--        &lt;Key android:codes="115" android:keyLabel="s"/&gt;
-+        &lt;Key android:codes="115" android:keyLabel="s" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_s"/&gt;
-         &lt;Key android:codes="100" android:keyLabel="d"/&gt;
-         &lt;Key android:codes="102" android:keyLabel="f"/&gt;
--        &lt;Key android:codes="103" android:keyLabel="g"/&gt;
--        &lt;Key android:codes="104" android:keyLabel="h"/&gt;
--        &lt;Key android:codes="106" android:keyLabel="j"/&gt;
-+        &lt;Key android:codes="103" android:keyLabel="g" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_g"/&gt;
-+        &lt;Key android:codes="104" android:keyLabel="h" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_h"/&gt;
-+        &lt;Key android:codes="106" android:keyLabel="j" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_j"/&gt;
-         &lt;Key android:codes="107" android:keyLabel="k"/&gt;
-         &lt;Key android:codes="108" android:keyLabel="l" android:keyEdgeFlags="right"/&gt;
-     &lt;/Row&gt;
+     <Row>
+         <Key android:codes="97" android:keyLabel="a" android:horizontalGap="5%p"
+                 android:keyEdgeFlags="left"/>
+-        <Key android:codes="115" android:keyLabel="s"/>
++        <Key android:codes="115" android:keyLabel="s" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_s"/>
+         <Key android:codes="100" android:keyLabel="d"/>
+         <Key android:codes="102" android:keyLabel="f"/>
+-        <Key android:codes="103" android:keyLabel="g"/>
+-        <Key android:codes="104" android:keyLabel="h"/>
+-        <Key android:codes="106" android:keyLabel="j"/>
++        <Key android:codes="103" android:keyLabel="g" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_g"/>
++        <Key android:codes="104" android:keyLabel="h" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_h"/>
++        <Key android:codes="106" android:keyLabel="j" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_j"/>
+         <Key android:codes="107" android:keyLabel="k"/>
+         <Key android:codes="108" android:keyLabel="l" android:keyEdgeFlags="right"/>
+     </Row>
 @@ -60,7 +60,7 @@
-                 android:isSticky="true" android:keyEdgeFlags="left"/&gt;
-         &lt;Key android:codes="122" android:keyLabel="z"/&gt;
-         &lt;Key android:codes="120" android:keyLabel="x"/&gt;
--        &lt;Key android:codes="99" android:keyLabel="c"/&gt;
-+        &lt;Key android:codes="99" android:keyLabel="c" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_c"/&gt;
-         &lt;Key android:codes="118" android:keyLabel="v"/&gt;
-         &lt;Key android:codes="98" android:keyLabel="b"/&gt;
-         &lt;Key android:codes="110" android:keyLabel="n"&gt;&lt;/Key&gt;
+                 android:isSticky="true" android:keyEdgeFlags="left"/>
+         <Key android:codes="122" android:keyLabel="z"/>
+         <Key android:codes="120" android:keyLabel="x"/>
+-        <Key android:codes="99" android:keyLabel="c"/>
++        <Key android:codes="99" android:keyLabel="c" android:popupKeyboard="@xml/kbd_popup_template" android:popupCharacters="@string/alternates_for_c"/>
+         <Key android:codes="118" android:keyLabel="v"/>
+         <Key android:codes="98" android:keyLabel="b"/>
+         <Key android:codes="110" android:keyLabel="n"></Key>
 ```
