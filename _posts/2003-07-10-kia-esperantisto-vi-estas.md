@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XXX
+title: Kia Esperantisto vi estas?
 created: 1057852320
 ---
 *Vi estas...* **aktivulo/organizanto**
