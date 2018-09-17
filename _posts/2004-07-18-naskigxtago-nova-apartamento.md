@@ -22,5 +22,5 @@ Kiam mi pasintfoje estis en Toronto, mi iris al Kensington Market por serĉi ves
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ni ekkontraŭbatalu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tiujn aĉaĵojn!
 
-<b>Nuna humoro:</b> kreema
-<b>Nuna muziko:</b> Los Amigos Invisibles - Fonnovo
+**Nuna humoro:** kreema  
+**Nuna muziko:** Los Amigos Invisibles - Fonnovo

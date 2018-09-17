@@ -9,5 +9,5 @@ Denove temas pri rapide farita, kaj do tute ne polurita kanto.  Sed almenaŭ ĝi
 
 <a href="/files/Argilo%20-%20Kion%20fari.mp3">Klaku ĉi tie por elŝuti la MP3-on!</a>
 
-<b>Nuna humoro:</b> malstreĉa
-<b>Nuna muziko:</b> Argilo - Kion fari?
+**Nuna humoro:** malstreĉa  
+**Nuna muziko:** Argilo - Kion fari?

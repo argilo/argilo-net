@@ -9,5 +9,5 @@ Antaŭ kelkaj tagoj mi mendis porteblan komputilon.  Temas pri <a href="http://w
 
 Estas iomete strange ke mi decidis aĉeti porteblan komputilon, ĉar mi antaŭ kelkaj monatoj pensis ke mi neniam povus alkutimiĝi al portebla.  Sed dum la tuta E@I-seminario en Bostono mi uzis porteblan komputilon, kaj komencis tre ŝati ĝin!  Pro tio mi decidis finfine forĵeti mian komputilegon kaj ekhavi porteblan.  Mi tre ĝojas pri tio, ke mi finfine povos porti mian laboron kun mi al seminarioj kaj konferencoj!
 
-<b>Nuna humoro:</b> ekscitita
-<b>Nuna muziko:</b> Bill Withers - Use Me
+**Nuna humoro:** ekscitita  
+**Nuna muziko:** Bill Withers - Use Me

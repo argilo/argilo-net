@@ -13,4 +13,4 @@ Hodiaŭ vespere mi ĉeestis renkontiĝon de la Esperanto-Rondo de Toronto.  Entu
 <img src="/files/IMG_3008_mg.jpg" alt="renkontiĝo de ERT" />
 
 
-<b>Nuna humoro:</b> denove energioplena
+**Nuna humoro:** denove energioplena

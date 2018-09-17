@@ -15,5 +15,5 @@ Post la unua duono de la ludo, la svedinoj estis iom superintaj nin, sed ĵus an
 
 Strangege, ĉu ne?
 
-<b>Nuna humoro:</b> konfuzita
-<b>Nuna muziko:</b> Chilly Bob - Need No Other
+**Nuna humoro:** konfuzita  
+**Nuna muziko:** Chilly Bob - Need No Other

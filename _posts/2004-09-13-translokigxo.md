@@ -11,5 +11,5 @@ Mi esperas fini mian disertaĵon (kaj tiel ankaŭ mian universitatan studadon) e
 
 Nu, plej bone mi revenu al la disertaĵo nun.
 
-<b>Nuna humoro:</b> denove energioplena
-<b>Nuna muziko:</b> Four80East - Table For Two
+**Nuna humoro:** denove energioplena  
+**Nuna muziko:** Four80East - Table For Two

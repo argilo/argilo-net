@@ -9,5 +9,5 @@ Kia tago por renkontiĝo!  Lastatempe mortis la provinca parlamentano por la reg
 
 Entute la renkontiĝo estis tre amuza, kaj mi certe ĉeestos la sekvan, se mi tiam estos en Otavo.
 
-<b>Nuna humoro:</b> ekscitita
-<b>Nuna muziko:</b> Jammin (Emagic EVB3 demo song)
+**Nuna humoro:** ekscitita  
+**Nuna muziko:** Jammin (Emagic EVB3 demo song)

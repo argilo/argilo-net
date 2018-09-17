@@ -7,5 +7,5 @@ Hieraŭ mi reiris al la universitato por pritrakti ankoraŭ kelkajn aferojn.  On
 
 Hodiaŭ finfine ekfunkciis la interret-konekto en nia domo, do mi povos multe pli facile skribi en mia taglibro ekde nun.  Verŝajne mi skribos multe dum la sekvaj tagoj pri miaj kursoj kaj aliaj devoj ĉe la universitato.  Postbakalaŭra studado ankoraŭ estas por mi sufiĉe mistera afero!
 
-<b>Nuna humoro:</b> gaja
-<b>Nuna muziko:</b> Con Funk Shun - Chase Me
+**Nuna humoro:** gaja  
+**Nuna muziko:** Con Funk Shun - Chase Me

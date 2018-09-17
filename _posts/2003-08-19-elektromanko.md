@@ -13,5 +13,5 @@ Trovinte la kaŝejon, ni revenis hejmen, kaj lumigis la apartamenton per kandelo
 
 Sed nun, jam kvin tagojn post la malapero de la elektro, daŭre estas problemoj.  Necesas tuta semajno por refunkciigi nuklean elektrocentralon, kaj Ontario dependas de pluraj tiaj centraloj.  Pro tio, ne estos sufiĉa elektro en la provinco ĝis la fino de ĉi tiu semajno, kaj dume ni devas multe ŝpari elektron por ne kaŭzi pliajn problemojn.  Sed la vetero ĉi tie fariĝas varmega, kaj mi multe volas ekuzi la klimatizilon!
 
-<b>Nuna humoro:</b> kontenta
-<b>Nuna muziko:</b> Oscar Peterson - Teenager
+**Nuna humoro:** kontenta  
+**Nuna muziko:** Oscar Peterson - Teenager

@@ -7,5 +7,5 @@ Je sabato, mi vojaĝis al Toronto por ĉeesti la januaran "bibliotekan studrondo
 
 La ĉiumonataj studrondoj okazas en la apartamento de Detlef.  Mi vere miris, kiom proksime li loĝas al mi.  Li loĝas en tre okcidenta parto de Toronto, kaj mi en tre orienta parto de Waterloo.  Dank' al tio, mi sukcesis vojaĝi tien dum nur 50 minutoj.  Do ekde nun mi planas ĉiumonate ĉeesti!
 
-<b>Nuna humoro:</b> kontenta
-<b>Nuna muziko:</b> Morgan Finlay - In A Perfect World
+**Nuna humoro:** kontenta  
+**Nuna muziko:** Morgan Finlay - In A Perfect World

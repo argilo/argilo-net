@@ -9,5 +9,5 @@ La plej interesa halto por mi estis en Kingstono, kie mi vizitis muzikinstrument
 
 Nia nova loĝloko estas tre granda, bela, kaj plaĉa.  La nura malavantaĝo estas ke ĝi troviĝas iom for de la universitato.  Sed malgraŭ tio, mi tre ŝatas ĝin, kaj supozas ke mi multe ĝuos mian jaron ĉi tie, dum kiu mi espereble magistriĝos.  :-)
 
-<b>Nuna humoro:</b> malsata
-<b>Nuna muziko:</b> Herbie Hancock - Steppin' In It
+**Nuna humoro:** malsata  
+**Nuna muziko:** Herbie Hancock - Steppin' In It

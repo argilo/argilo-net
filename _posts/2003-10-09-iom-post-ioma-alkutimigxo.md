@@ -11,5 +11,5 @@ Mi finfine decidis, ĝuste kiujn kursojn mi sekvos dum la aŭtuno.  Ili estas pr
 
 Krom tio, mi devas fari kelkajn aliajn taskojn.  Ekzemple, mi venontsemajne devos helpi pri administrado de iu ekzameno.  Kaj komence de novembro mi devos fari 20-minutan prezenton pri iu matematika temo.  Verŝajne mi prelegos pri trovado de grandegaj primoj.  Mi afiŝos pliajn informojn pri tio poste.
 
-<b>Nuna humoro:</b> okupata
-<b>Nuna muziko:</b> Keep Forgetting - Michael McDonald
+**Nuna humoro:** okupata  
+**Nuna muziko:** Keep Forgetting - Michael McDonald

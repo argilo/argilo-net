@@ -7,5 +7,5 @@ Antaŭ nur du semajnoj, mi prelegis pri tio, kiel trovi grandegajn primojn.  Kaj
 
 Se vi volas per la propra komputilo serĉi grandegajn primojn, mi rekomendas viziti <a href="http://www.mersenne.org/">la retejon de GIMPS</a>.  Tie eblas legi pli pri la projekto, kaj elŝuti senkoste la necesan programon.
 
-<b>Nuna humoro:</b> ekscitita
-<b>Nuna muziko:</b> Headhunters - Straight From The Gate
+**Nuna humoro:** ekscitita  
+**Nuna muziko:** Headhunters - Straight From The Gate

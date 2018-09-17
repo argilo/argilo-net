@@ -7,5 +7,5 @@ De tempo al tempe venas brokantisto al la universitato por vendi KD-ojn.  Ĉifoj
 <ul><li><b>Soulive</b> de Soulive</li><li><b>Mo' Roots</b> de Maceo Parker</li><li><b>Southern Exposure</b> de Maceo Parker</li><li><b>Blue Mode</b> de Reuben Wilson</li></ul>
 Aŭskultinte ĉiujn, mi tre ĝojas ke mi elektis ĝuste ilin!  Ili ĉiuj estas bonegaj, kaj vekas en mi inspiron komponi propran muzikon.
 
-<b>Nuna humoro:</b> kontenta
-<b>Nuna muziko:</b> Reuben Wilson - Blue Mode
+**Nuna humoro:** kontenta  
+**Nuna muziko:** Reuben Wilson - Blue Mode

@@ -13,5 +13,5 @@ Aliaj: 1 (5.6%)
 
 Por montri al vi, kiel stulta estas la kanada elektosistemo, mi skribis inter krampoj la kvanton de voĉoj, kiun ricevis ĉiu partio.  La NDP ricevis pli da voĉoj ol la Bloko Kebekia, sed ricevis multe malpli da parlamentaj seĝoj.  Tiel okazis pro tio ke la voĉoj por la Bloko Kebekia estas koncentritaj en unu provinco, dum la voĉoj por la NDP estas distribuitaj tra la tuta lando.  Ni bezonegas proporcian sistemon!
 
-<b>Nuna humoro:</b> frustrita
-<b>Nuna muziko:</b> Arono - Resubiras Sama Suno
+**Nuna humoro:** frustrita  
+**Nuna muziko:** Arono - Resubiras Sama Suno

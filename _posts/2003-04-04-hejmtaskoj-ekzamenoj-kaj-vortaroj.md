@@ -9,5 +9,5 @@ Cetere mi ĵus instalis ĉeĥan kaj litovan vortarojn ĉe <a href="http://www.le
 
 Post tiom da laboro, necesas iom amuziĝi, do mi ludos <a href="http://skrablo.ikso.net/">skrablon</a> kun kelkaj amikoj.  Ankaŭ vi nepre venu iam por ludi kun mi.  :-)
 
-<b>Nuna humoro:</b> laboranta
-<b>Nuna muziko:</b> So Funky ! ! ! (funky.xm)
+**Nuna humoro:** laboranta  
+**Nuna muziko:** So Funky ! ! ! (funky.xm)

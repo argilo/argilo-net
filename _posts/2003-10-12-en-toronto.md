@@ -9,5 +9,5 @@ La bulgara tamen ne estas la nura lingvo, kiun oni uzis.  Dum ni manĝis, la avo
 
 Dum mia tempo en Toronto, mi iris ankaŭ al muzikinstrumenta vendejo por aĉeti novan klavaron, nome <a href="http://www.clavia.se/nordelectro/index.htm">Nord Electro 2</a>, pri kiu mi skribis en antaŭa enskribo.  Oni havis tian klavaron en la vendejo, sed ĝi aspektis iom uzita, do mi petis ke oni mendu novan rekte de la fabriko.  Ĝi alvenos post unu-du semajnoj.  Mi multe antaŭĝojas!  Finfine mi havos klavaron en mia apartamento, do mi ne plu devos iri al la universitato por ludi pianon, aŭ atendi la finon de la studperiodo por uzi la pianon de miaj gepatroj.
 
-<b>Nuna humoro:</b> ekstaza
-<b>Nuna muziko:</b> Brian Tarquin - Third Stone From The Sun
+**Nuna humoro:** ekstaza  
+**Nuna muziko:** Brian Tarquin - Third Stone From The Sun

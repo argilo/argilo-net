@@ -7,5 +7,5 @@ Hodiaŭ mi konstatis ke du horoj da vigla glitkurado povas dolorigi la krurojn, 
 
 Aliteme, mi ĵus ricevis kvar libroformajn kopiojn de mia disertaĵo.  Mi petis tiom, ĉar jam miaj gepatroj kaj geavoj petis kopion.  Ili tute ne spertas pri matematiko, sed multe fieras pri mia laboro.  :-)  Mi planas viziti ilin dum la paskaj ferioj.
 
-<b>Nuna humoro:</b> senenergia
-<b>Nuna muziko:</b> Deadline (jt_deadl.xm)
+**Nuna humoro:** senenergia  
+**Nuna muziko:** Deadline (jt_deadl.xm)

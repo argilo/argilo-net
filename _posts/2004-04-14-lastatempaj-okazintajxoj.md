@@ -15,5 +15,5 @@ Dum la pasinta semajno mi laboregis por fini mian lastan projekton por mia lasta
 
 Lastatempe mi ekvolis krei propran muzikon.  Dank' al moderna muzika softvaro, necesas nur rapida komputilo kaj bonkvalita sonkarto por tion fari.  Post iom da esplorado, mi decidis aĉeti la sonkarton <a href="http://www.m-audio.ca/index.php?do=products.main&ID=f16575c4e111de46be330a63c972c865">Omni Studio</a> de M-Audio.  Mi mendis ĝin de loka muzika vendejo, kaj espereble ĝi alvenos ĉisemajne.  Se mi sukcesos krei ion bonan, mi certe tion disponigos MP3-formate en mia retejo.
 
-<b>Nuna humoro:</b> sukcesa
-<b>Nuna muziko:</b> Lindsay Lohan - Drama Queen
+**Nuna humoro:** sukcesa  
+**Nuna muziko:** Lindsay Lohan - Drama Queen

@@ -9,5 +9,5 @@ Finfine mi havis tute liberan vesperon, kaj do mi tuj kuris en la kelon por muzi
 
 Mi mem ludis kaj registris ĉion, krom la druma parto.  Bonvolu komenti, por diri ĉu plaĉas al vi.  Mi planas krei multe pli da muziko dum la venontaj semajnoj.
 
-<b>Nuna humoro:</b> funka
-<b>Nuna muziko:</b> Argilo - Unua eksperimento
+**Nuna humoro:** funka  
+**Nuna muziko:** Argilo - Unua eksperimento

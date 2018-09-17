@@ -11,5 +11,5 @@ Dum la vizito mi trovis plian geografian kaŝejon kun mia fratino.  Denove ni vi
 
 Post kelkaj horoj mi ekiros al Otavo kun Teodora.  Ni devas alporti ŝiajn aferojn, ĉar ŝi translokiĝas tien.  Ŝi eklaboros je lundo en la Departemento de Financo.  Dume mi restos en Waterloo por fini mian disertaĵon, sed mi kompreneble venos tre ofte al Otavo.  Espereble ni povos multe amuziĝi kun <a href="https://www.livejournal.com/userinfo.bml?user=arono"><img src="https://stat.livejournal.com/img/userinfo.gif" alt="[info]" width="17" height="17" style="vertical-align: bottom; border: 0;" /></a><a href="https://arono.livejournal.com/"><b>arono</b></a>, Karlina, kaj Nirgle!
 
-<b>Nuna humoro:</b> laca
-<b>Nuna muziko:</b> Where Now?? (wherenow.mod)
+**Nuna humoro:** laca  
+**Nuna muziko:** Where Now?? (wherenow.mod)

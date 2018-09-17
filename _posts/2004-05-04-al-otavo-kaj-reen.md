@@ -7,5 +7,5 @@ Je la 1-a de majo Teodora kaj mi iris al Otavo.  Ŝia nova apartamento tie estas
 
 Hieraŭ mi revenis al Waterloo.  Ĝuste nun mi sidas ekstere, legante teknikajn raportojn kiuj rilatas al mia disertaĵo, kaj ĝuante la finfine alvenintan printempan veteron.
 
-<b>Nuna humoro:</b> malstreĉa
-<b>Nuna muziko:</b> Four80East - Table For Two
+**Nuna humoro:** malstreĉa  
+**Nuna muziko:** Four80East - Table For Two

@@ -7,4 +7,4 @@ Hodiaŭ la ĉefministro anoncis ke okazos tutkanada balotado je la 28-a de junio
 
 Mi tre ekscitiĝas, ĉar mia preferata partio (la <a href="http://www.ndp.ca/">Nova Demokratia Partio</a>) nun havas la subtenon de ĉ. 18 procentoj el la kanadanoj, kompare al 9 procentoj dum la pasinta elektokampanjo.  Cetere ŝajnas ke la Liberala Partio (nun la plej populara) eble ne gajnos duonon el la parlamentaj seĝoj, kio donus al la NDP multe pli gravan rolon.  Mi esperas ke miaj kanadaj amikoj informiĝos pri la programoj de ĉiuj partioj, kaj pripensos subteni la NDP!
 
-<b>Nuna humoro:</b> energioplena
+**Nuna humoro:** energioplena

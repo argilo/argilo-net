@@ -13,5 +13,5 @@ Mi vere miras pri tio, kiom progresis Linukso dum la pasintaj jaroj!  Ne plu oni
 
 Kompreneble restas kelkaj aferetoj, kiuj povus pliboniĝi, sed la samon mi povus diri pri Vindozo.  Ĝenerale mi tre kontentas!
 
-<b>Nuna humoro:</b> komputilema
-<b>Nuna muziko:</b> The Whispers - Headlights
+**Nuna humoro:** komputilema  
+**Nuna muziko:** The Whispers - Headlights

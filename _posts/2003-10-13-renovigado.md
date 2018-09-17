@@ -11,5 +11,5 @@ Mi decidis uzi mian taglibron kiel komencpaĝon, por ke ĉiam estu io nova kaj (
 
 Se vi havas ideojn aŭ proponojn pri la retejo, nepre komentu per la suba ligilo.
 
-<b>Nuna humoro:</b> funka
-<b>Nuna muziko:</b> L.A. Connection - Shake It
+**Nuna humoro:** funka  
+**Nuna muziko:** L.A. Connection - Shake It

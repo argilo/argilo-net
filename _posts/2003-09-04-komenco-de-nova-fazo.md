@@ -9,5 +9,5 @@ Dum la sekva jaro mi en tiu departemento studos kriptografion.  Mia gvidanto dum
 
 Ĝis nun ŝajnas tre bone, esti magistra studento.  Oni ricevas sufiĉan monon por pagi la stud- kaj loĝ-kostojn, kaj oni havas plurajn privilegiojn, kiujn oni ne havas kiel bakalaŭriĝanto.  Sed kompreneble estas kelkaj ĝenoj.  Ekzemple, oni devas kontroli hejmtaskojn kaj ekzamenojn.  Tion mi ŝajne faros por la unua kurso de algebro.  Tio tamen estas tre malgranda ĝeno, kaj mi ĝenerale tre ekscitiĝas pri tiu ĉi nova fazo de mia studado!
 
-<b>Nuna humoro:</b> ekscitita
-<b>Nuna muziko:</b> JeepJazz - Say, Buddy
+**Nuna humoro:** ekscitita  
+**Nuna muziko:** JeepJazz - Say, Buddy

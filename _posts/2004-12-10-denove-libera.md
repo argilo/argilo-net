@@ -9,5 +9,5 @@ Kiel vi verŝajne rimarkis, mi dum du monatoj nenion signifan skribis en mian ta
 
 Hieraŭ ankaŭ estis grava tago ĉar la Supera Kortumo de Kanado donis sian opinion pri edziĝo de samseksaj paroj.  Ili deklaris ke estus laŭkonstitucie permesi edziĝon de samseksaj paroj, kaj ke la Parlamento de Kanado rajtas ŝanĝi la difinon de edziĝo.  La Liberala Partio (kiu nun formas la registaron) anoncis ke ili klopodos fari tion komence de la nova jaro.  Bedaŭrinde pluraj deputitoj de tiu partio jam indikis ke ili voĉdonos kontraŭ tio, sed feliĉe estas du aliaj partioj (la Nova Demokratia Partio kaj la Bloko Kebekia) kies deputitoj forte subtenas la iniciaton.  (La Konservativa Partio forte kontraŭas.)  Do estas verŝajne ke la proponota leĝprojekto sukcesos.
 
-<b>Nuna humoro:</b> sukcesa
-<b>Nuna muziko:</b> Patrice Rushen - Remind Me
+**Nuna humoro:** sukcesa  
+**Nuna muziko:** Patrice Rushen - Remind Me

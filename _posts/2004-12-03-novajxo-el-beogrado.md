@@ -7,4 +7,4 @@ Por tiuj el vi, kiuj konas Hokan kaj Sonja:
 
 <a href="http://ikso.net/~hokanx/iva/">http://ikso.net/~hokanx/iva/</a>
 
-<b>Nuna humoro:</b> ekscitita
+**Nuna humoro:** ekscitita

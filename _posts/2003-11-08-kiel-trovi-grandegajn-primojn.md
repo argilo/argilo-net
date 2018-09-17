@@ -9,5 +9,5 @@ Estas sufiĉe facile trovi malgrandajn primojn, sed oni devas uzi komplikajn mat
 
 Mi bonvenigas ĉiajn komentojn pri mia uzo de la matematika terminologio!  Mi ĝis nun ne skribis multe pri matematiko en Esperanto, do povus esti eraroj.
 
-<b>Nuna humoro:</b> kreema
-<b>Nuna muziko:</b> Marc Broussard - Momentary Setback
+**Nuna humoro:** kreema  
+**Nuna muziko:** Marc Broussard - Momentary Setback

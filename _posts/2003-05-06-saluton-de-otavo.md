@@ -9,5 +9,5 @@ Post la seminario mi pasigis iom da tempo ĉe la gepatroj.  Poste mi translokiĝ
 
 Mi bezonos ankoraŭ iom da tempo por tralegi la centojn da retpoŝtaĵoj (ĉu retpostaĵoj, amuzulo?) kiuj alvenis dum mia foresto, sed poste mi komencos prilabori interalie la projektojn <a href="http://www.lernu.net/">lernu!</a>, <a href="http://www.interkulturo.net/">Interkulturo</a>, kaj <a href="http://skrablo.ikso.net/">Skrablo</a>.
 
-<b>Nuna humoro:</b> okupata
-<b>Nuna muziko:</b> George Benson - Turn Your Love Around
+**Nuna humoro:** okupata  
+**Nuna muziko:** George Benson - Turn Your Love Around

@@ -11,4 +11,4 @@ Ankaŭ en tiu tago alvenis mia nova klavaro.  La sekvan tagon, mi iris al Toront
 
 Nu, min atendas la hejmtaskegar', do mi revenu al tio.  Ĝis poste!
 
-<b>Nuna humoro:</b> okupata
+**Nuna humoro:** okupata

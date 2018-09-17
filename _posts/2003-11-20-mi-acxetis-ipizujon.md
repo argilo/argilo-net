@@ -7,5 +7,5 @@ Antaŭ kelkaj tagoj mi aĉetis <a href="http://www.apple.com/ipod/">iPod</a>-on,
 
 Komence mi uzis la inkluzivitan programaĉon "musicmatch" por organizi mian muzik-kolekton, sed poste mia amiko Janko menciis al mi ke jam ekzistas vindoza versio de iTunes, kiun mi tuj instalis.  Ĝi funkcias multege pli bone!
 
-<b>Nuna humoro:</b> malsata
-<b>Nuna muziko:</b> Daft Punk - Voyager
+**Nuna humoro:** malsata  
+**Nuna muziko:** Daft Punk - Voyager

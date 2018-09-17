@@ -9,5 +9,5 @@ Arono ankaŭ rakontis al mi pri <a href="http://www.geocaching.com/">Geocaching<
 
 Antaŭ kelkaj tagoj, mi por la unua fojo trovis tian trezoreton, kiu fakte troviĝis je nur unu kilometro for de mia apartamento.  Oni kaŝis ĝin en la arbaro malantaŭ la kanada parlamentejo.  Estis tre amuze!  Certe mi baldaŭ serĉos pliajn trezoretojn.  Eblas sekvi mian progreson en <a href="http://www.geocaching.com/seek/nearest.aspx?ul=argilo">ĉi tiu paĝo</a>, kiu listigas ĉiujn kaŝejojn, kiujn mi ĝis nun trovis.
 
-<b>Nuna humoro:</b> geografiema
-<b>Nuna muziko:</b> Michael Jackson - Don't Stop 'Til You Get Enough
+**Nuna humoro:** geografiema  
+**Nuna muziko:** Michael Jackson - Don't Stop 'Til You Get Enough

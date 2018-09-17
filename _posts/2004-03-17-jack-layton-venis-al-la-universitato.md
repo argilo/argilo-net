@@ -11,5 +11,5 @@ Vere mirigas min, kiom bone jam progresas la agado de nia klubo.  Antaŭ du sema
 
 Ni ne havis multe da tempo por prepari nin al tio, sed ni iel sukcesis.  Ni tuj produktis afiŝojn, kontaktis la amaskomunikilojn, rezervis lokon por la prelego, ktp.  Kaj hodiaŭ ĉio perfekte funkciis.  Venis granda homamaso, kiu atente aŭskultis kaj multe aplaŭdis la prelegon.  Poste la ĉeestantoj starigis plurajn interesajn demandojn.  Mi mem tre ĝuis la eventon!
 
-<b>Nuna humoro:</b> kontenta
-<b>Nuna muziko:</b> Modjo - Lady
+**Nuna humoro:** kontenta  
+**Nuna muziko:** Modjo - Lady

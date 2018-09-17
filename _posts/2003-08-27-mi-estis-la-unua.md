@@ -9,5 +9,5 @@ En la kaŝejo mi trovis tre interesan moneron.  Kun ĝi estis informileto, kiu k
 
 Krome, mi vidis ke mi fariĝis la unua, kiu trovis la novan kaŝejon.  Hodiaŭ evidentiĝis ke multaj aliaj ankaŭ volis esti la unua, sed ne sukcesis.  Mia amiko Arono diris ke mi tuj vizitu <a href="http://www.geocaching.com/seek/cache_details.aspx?ID=88159">la paĝon de la kaŝejo</a>.  Tie mi vidis ke la sekva persono, kiu trovis la kaŝejon, eĉ <a href="http://www.geocaching.com/seek/cachelog_details.asp?ID=301440&L=1948816" >fotis min</a> dum mi foriris!  Tiu sufiĉe amuziĝis pro tio, ke mi rajdas unuciklon!  Aperis ankaŭ listo de kelkaj aliaj, kiuj vizitis la kaŝejon poste en tiu tago.
 
-<b>Nuna humoro:</b> sukcesa
-<b>Nuna muziko:</b> Four80East - Drive Time
+**Nuna humoro:** sukcesa  
+**Nuna muziko:** Four80East - Drive Time

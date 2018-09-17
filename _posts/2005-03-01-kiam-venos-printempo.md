@@ -7,4 +7,4 @@ Sendube vintro havas siajn avantaĝojn, sed la aliaj sezonoj eĉ pli.  Jam mi sp
 
 Por pensigi min pri pli varma vetero, mi enskribiĝis en konkurso, kiun organizas ĉiujare mia universitato.  Oni devas diveni, kiam la temperaturo unuafoje atingos 20 gradojn.  En la 2000-a jaro, tio okazis je la 8-a de marto, kio donas almenaŭ iom da espero.  :-)  Mia diveno tamen ne estas tiel optimisma; mi elektis la 19-an de aprilo.
 
-<b>Nuna humoro:</b> malvarma
+**Nuna humoro:** malvarma

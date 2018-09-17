@@ -13,4 +13,4 @@ Aliaj: 1
 
 Hu ra!  Se tiel okzaos, la NDP pli ol duobligos sian ĉeeston en la parlamento!  (Nun ili havas nur 14 parlamentanojn.)  Mi tamen esperas ke la Liberala Partio kaj la Nova Demokratia partio ricevos inter si almenaŭ kvar pliajn seĝojn, por ke ili povu formi koalicion!
 
-<b>Nuna humoro:</b> ekscitita
+**Nuna humoro:** ekscitita
