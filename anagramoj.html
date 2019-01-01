@@ -1,0 +1,81 @@
+---
+layout: page
+title: Anagramoj
+created: 1137266998
+permalink: /anagramoj/
+---
+<script>
+  function sercxu() {
+    var formularo = document.getElementById("formularo");
+    var rezulto = document.getElementById("rezulto");
+
+    var XHR = new XMLHttpRequest();
+    var FD = new FormData(formularo);
+
+    XHR.addEventListener("load", function(event) {
+      var anagramoj = event.target.responseText;
+      if (XHR.status == 400) {
+        rezulto.textContent = "Eraro!";
+      } else if (anagramoj.length <= 1) {
+        rezulto.textContent = "Neniuj anagramoj trovitaj.";
+      } else {
+        rezulto.innerHTML = "Jen la listo de trovitaj anagramoj (maksimume 10000):<br><br>" + anagramoj;
+      }
+    });
+
+    XHR.addEventListener("error", function(event) {
+      rezulto.textContent = "Eraro!";
+    });
+
+    rezulto.textContent = "Bonvolu atendi…";
+    XHR.open("POST", "https://ve3irr.ca/anagramoj/anagramoj.php");
+    XHR.send(FD);
+  }
+
+  function montru(cxu) {
+    var montri = document.getElementById("montri");
+    if (cxu) {
+      montri.style.display = "";
+    } else {
+      montri.style.display = "none";
+    }
+  }
+</script>
+
+<p>
+  Laŭ la <a href="http://purl.org/NET/voko/revo/">Reta Vortaro</a>, anagramo
+  estas "ŝanĝaranĝo de la literoj de vorto, por fari alian vorton: nomo - mono,
+  resano - ansero".
+</p>
+<p>
+  Per tiu ĉi paĝo vi povas trovi anagramojn.  La anagramojn trovas la programo
+  "<a href="http://hsvmovies.com/static_subpages/personal_orig/wordplay/index.html">Wordplay</a>"
+  de Evans A Criswell.  Mi mem adaptis ĝin al Esperanto.  La modifita fontokodo
+  de la programo troviĝas en <a href="https://github.com/argilo/anagramoj">Github</a>.
+</p>
+<p>
+  Entajpu du-tri vortojn <strong>Unikode</strong> aŭ <strong>x-sisteme</strong> por trovi anagramojn
+  de ili.
+</p>
+
+<form id="formularo" onsubmit="sercxu(); return false;">
+  <p>
+    <input name="tipo" type="radio" checked="checked" onchange="montru(false)" />Simpla serĉo
+    <input name="tipo" type="radio" onchange="montru(true)" />Detala serĉo
+    <br><br>
+    Serĉvortoj: <input type="text" name="vorto" size="25" />
+    <span id="montri" style="display: none">
+      <br>Ĉiam inkluzivu tiun ĉi vorton: <input type="text" name="inkluzivu" size="15" />
+      <br>Ĉiam ekskluzivu tiun ĉi vorton: <input type="text" name="ekskluzivu" size="15" />
+      <br>Maksimuma nombro da vortoj en ĉiu anagramo: <input type="text" name="maksvortoj" size="5" />
+      <br>Maksimuma nombro da literoj en ĉiu vorto: <input type="text" name="maksliteroj" size="5" />
+      <br>Minimuma nombro da literoj en ĉiu vorto: <input type="text" name="minliteroj" size="5" />
+      <br><input name="kandidatoj" type="radio" value="ne" checked="checked" />Listigu anagramojn
+      <input name="kandidatoj" type="radio" value="jes" />Listigu kandidatajn vortojn
+      <br><br>
+    </span>
+    <button type="submit">Trovu</button>
+  </p>
+</form>
+
+<div id="rezulto"></div>

@@ -22,7 +22,7 @@ url: "https://argilo.net" # the base hostname & protocol for your site, e.g. htt
 show_excerpts: true
 excerpt_separator: <!--more-->
 header_pages:
-  - anagramoj.md
+  - anagramoj.html
   - ijf-artikolo.md
   - intervjuo.md
   - kurso/index.html
