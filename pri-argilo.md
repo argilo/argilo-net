@@ -13,7 +13,3 @@ permalink: /pri-argilo/
 * Mezlernejo: Lambton-Kent Composite School
 * Universitato: [University of Waterloo](https://uwaterloo.ca/)
 * Edzino: Teodora Alexandrova
-
-## Por kontakti min
-
-* Retpoŝto: argilo ĉe gmail.com
