@@ -5,12 +5,41 @@ created: 1137266998
 permalink: /anagramoj/
 ---
 <script>
+  var supersignoj = {
+    c: "ĉ",
+    g: "ĝ",
+    h: "ĥ",
+    j: "ĵ",
+    s: "ŝ",
+    u: "ŭ",
+    C: "Ĉ",
+    G: "Ĝ",
+    H: "Ĥ",
+    J: "Ĵ",
+    S: "Ŝ",
+    U: "Ŭ",
+  };
+
+  function unikodo(cxeno) {
+    return cxeno.replace(/[cghjsu]x/gi, function(matched) {
+      return supersignoj[matched[0]];
+    });
+  }
+
   function sercxu() {
     var formularo = document.getElementById("formularo");
     var rezulto = document.getElementById("rezulto");
 
     var XHR = new XMLHttpRequest();
-    var FD = new FormData(formularo);
+    datumoj = {
+      vorto: unikodo(formularo.elements["vorto"].value),
+      inkluzivu: unikodo(formularo.elements["inkluzivu"].value),
+      ekskluzivu: unikodo(formularo.elements["ekskluzivu"].value),
+      maksvortoj: parseInt(formularo.elements["maksvortoj"].value) || 32,
+      maksliteroj: parseInt(formularo.elements["maksliteroj"].value) || 32,
+      minliteroj: parseInt(formularo.elements["minliteroj"].value) || 0,
+      kandidatoj: formularo.elements["kandidatoj"].value == "jes"
+    };
 
     XHR.addEventListener("load", function(event) {
       var anagramoj = event.target.responseText;
@@ -28,8 +57,9 @@ permalink: /anagramoj/
     });
 
     rezulto.textContent = "Bonvolu atendi…";
-    XHR.open("POST", "https://ve3irr.ca/anagramoj/anagramoj.php");
-    XHR.send(FD);
+    XHR.open("POST", "https://07btvd7492.execute-api.us-east-1.amazonaws.com/v1/anagramoj");
+    XHR.setRequestHeader("Content-Type", "application/json");
+    XHR.send(JSON.stringify(datumoj));
   }
 
   function montru(cxu) {
