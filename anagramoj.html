@@ -57,7 +57,7 @@ permalink: /anagramoj/
     });
 
     rezulto.textContent = "Bonvolu atendi…";
-    XHR.open("POST", "https://07btvd7492.execute-api.us-east-1.amazonaws.com/v1/anagramoj");
+    XHR.open("POST", "https://srqlif77lr4iuo2tihddllzabq0mtxsa.lambda-url.us-east-1.on.aws/anagramoj");
     XHR.setRequestHeader("Content-Type", "application/json");
     XHR.send(JSON.stringify(datumoj));
   }
